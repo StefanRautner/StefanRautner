@@ -53,7 +53,7 @@ Here are some of the certifications I've earned:
 - **User Experience Design Fundamentals** - [IBM](https://www.credly.com/earner/earned/badge/017f6df0-1982-4ada-9a22-76bf33b5018a)
 - **Information Technology Fundamentals** - [IBM](https://www.credly.com/earner/earned/badge/81feb453-bf32-4d97-b922-e788b412d5a0)
 - **Cybersecurity Fundamentals** - [IBM](https://www.credly.com/earner/earned/badge/5f39a144-6c69-480e-bddc-e7c3bed59611)
-- **Artificial Intelligence Fundamentals** - [Cisco](https://www.credly.com/earner/earned/badge/0d96e592-3880-401f-a5ad-8409b9bfb312) - [IBM](https://www.credly.com/earner/earned/badge/02c3f148-5d9b-4848-a97e-563d11b74ac6)
+- **Artificial Intelligence Fundamentals** - [IBM](https://www.credly.com/earner/earned/badge/0d96e592-3880-401f-a5ad-8409b9bfb312) - [Cisco](https://www.credly.com/earner/earned/badge/02c3f148-5d9b-4848-a97e-563d11b74ac6)
 - **Python Essentials 1** - [Cisco](https://www.credly.com/earner/earned/badge/845cac6d-01f6-4d88-a8e2-c6e3cdf9acbd)
 - **English for IT 2** - [Cisco](https://www.credly.com/earner/earned/badge/ec988248-9c44-4393-b6da-b84c959311e7)
 - **English for IT 1** - [Cisco](https://www.credly.com/earner/earned/badge/fc2960c2-e7e9-4ade-a07f-b95a850bf778)
