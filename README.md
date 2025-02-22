@@ -75,8 +75,9 @@ Here are some of the certifications I've earned:
 
 ## 🔗 Useful Links
 
-- [My personal website](https://stefanrautner.netlify.app)
-- [My open-source repositories](https://github.com/StefanRautner?tab=repositories)
+- [Credly profile](https://www.credly.com/users/stefan-rautner)
+- [Personal website](https://stefanrautner.netlify.app)
+- [Open-source repositories](https://github.com/StefanRautner?tab=repositories)
 
 ---
 
