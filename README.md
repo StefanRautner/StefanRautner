@@ -28,10 +28,10 @@ Here are some of the cool projects I've worked on. You can explore them by click
 - [**Löschwasserförderung**](https://www.löschwasserförderung.at)  
   Löschwasserförderung is my thesis project done during my training at HTBLA-Saalfelden. As a volunteer firefighter, I developed this project to benefit the austrian firefighting community.
 
-- [**MBot-Controller**](https://github.com/StefanRautner/MBotController)
+- [**MBot-Controller**](https://github.com/StefanRautner/MBotController)  
   A project where we developed an application to control the MBot2 robot via a WebApp through an intermediate server. The application allows controlling the robot via WiFi and displaying sensor data on the WebApp.
 
-- [**KiAuto-Windows**](https://github.com/StefanRautner/KiAuto-Windows)
+- [**KiAuto-Windows**](https://github.com/StefanRautner/KiAuto-Windows)  
   KiAuto-Windows is a linux library for exporting schematisc and much more from a programm called KiCad. I rewrote that library to work on Windows.
 
 - [**TinyWhatsApp (Chat Program)**](https://github.com/StefanRautner/ChatProgram)  
