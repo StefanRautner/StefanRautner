@@ -31,7 +31,10 @@ Here are some of the cool projects I've worked on. You can explore them by click
 - [**MBot-Controller**](https://github.com/StefanRautner/MBot-Controller)  
   A project where we developed an application to control the MBot2 robot via a WebApp through an intermediate server. The application allows controlling the robot via WiFi and displaying sensor data on the WebApp.
 
-- [**TinyWhatsApp (Chat Program)**](https://github.com/StefanRautner/TinyWhatsApp)  
+- [**KiAuto-Windows**](https://github.com/StefanRautner/KiAuto-Windows)
+- KiAuto-Windows is a linux library for exporting schematisc and much more from a programm called KiCad. I rewrote that library to work on Windows.
+
+- [**TinyWhatsApp (Chat Program)**](https://github.com/StefanRautner/ChatProgram)  
   A multi-platform chat application that communicates with a central server and database.
 
 ---
