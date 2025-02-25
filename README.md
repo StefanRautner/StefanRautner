@@ -25,7 +25,7 @@
 ## 🚀 Featured Projects
 Here are some of the cool projects I've worked on. You can explore them by clicking on the project names!
 
-- [**Löschwasserförderung (Diplomarbeit)**](#)  
+- [**Löschwasserförderung**](https://www.löschwasserförderung.at)  
   Löschwasserförderung is my thesis project done during my training at HTBLA-Saalfelden. As a volunteer firefighter, I developed this project to benefit the austrian firefighting community.
 
 - [**MBot-Controller**](https://github.com/StefanRautner/MBot-Controller)  
@@ -36,7 +36,7 @@ Here are some of the cool projects I've worked on. You can explore them by click
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (public Repositories only)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanRautner&layout=compact&theme=radical)
 
@@ -82,5 +82,6 @@ Here are some of the certifications I've earned:
 ---
 
 **Thanks for stopping by!**
+
 Feel free to explore, contribute, and contact me with any questions or collaborations.
 I'm always open to new opportunities and learning experiences.
