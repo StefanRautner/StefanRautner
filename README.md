@@ -37,7 +37,7 @@ Here are some of the cool projects I've worked on. You can explore them by click
 - [**TinyWhatsApp (Chat Program)**](https://github.com/StefanRautner/ChatProgram)  
   A multi-platform chat application that communicates with a central server and database.
 
-  - [**Loeschzeit (Competition Timer)**]()  
+- [**Loeschzeit (Competition Timer)**]()  
   A real-time timing application for children's water-spraying competitions at volunteer fire department festivals. Tracks participants, records scores, and displays results live.
 
 - [**SnackSignal (Festival Ordering System)**]()  
