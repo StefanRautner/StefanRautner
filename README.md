@@ -1,100 +1,153 @@
-# Welcome to My GitHub Profile! 👨‍💻
+<div align="center">
 
-**Stefan Rautner**  
-*"Debugging is like being the detective in a crime movie where you are also the murderer."*  
-— Filipe Fortes
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:080810,50:13131f,100:0e0e1a&height=180&section=header&text=Stefan%20Rautner&fontSize=42&fontColor=4dd0e1&fontAlignY=40&desc=Smart.%20Secure.%20Automated.&descAlignY=58&descAlign=50&descColor=a78bfa" />
 
----
+<a href="https://stefanrautner.github.io/Portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=4DD0E1&center=true&vCenter=true&width=560&lines=building+smart+home+%26+automation+systems;cyber+security+%2B+ethical+hacking;IT%2FEDP+support+%40+volunteer+fire+department;studying+at+FH+Salzburg" alt="Typing SVG" />
+</a>
 
-## 🔧 Technologies & Tools
+<br><br>
 
-### Programming Languages:
-- **C#**, **Java**, **Dart**, **Python**, **Micropython**, **PHP**, **JavaScript**, **HTML**, **CSS**
+[![Portfolio](https://img.shields.io/badge/Portfolio-view-4dd0e1?style=for-the-badge&logoColor=white&labelColor=080810)](https://stefanrautner.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080810)](https://www.linkedin.com/in/stefan-rautner-07b00b3b9/)
+[![Mail](https://img.shields.io/badge/Mail-say%20hi-4dd0e1?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=080810)](mailto:stefan@stefanrautner.at)
 
-### Databases:
-- **MySQL**, **SQLite**, **MongoDB**, **PostgreSQL**
+</div>
 
-### Frameworks:
-- **Spring Boot**, **WPF**, **JavaFX**, **ASP.NET**, **Flutter**
+<br>
 
-### Languages:
-- **German**, **English**
+## ![](https://img.shields.io/badge/-%20-4dd0e1?style=flat-square) About
 
----
+I build smart home systems, security tools, and automation — things people actually rely on, not just demos. Currently studying at FH Salzburg, and I handle IT/EDP support for my local volunteer fire department, which is where a lot of my hands-on infrastructure and security work comes from.
 
-## 🚀 Featured Projects
-Here are some of the cool projects I've worked on. You can explore them by clicking on the project names!
+`Cyber Security` `Ethical Hacking` `Networking` `Smart Home & Automation` `AI-assisted development`
 
-- [**Löschwasserförderung**](https://github.com/fitforfire/loeschwasserfoerderung.at)  
-  Löschwasserförderung is my thesis project done during my training at HTBLA-Saalfelden. As a volunteer firefighter, I developed this project to benefit the austrian firefighting community.
+<br>
 
-- [**MBot-Controller**](https://github.com/StefanRautner/MBotController)  
-  A project where we developed an application to control the MBot2 robot via a WebApp through an intermediate server. The application allows controlling the robot via WiFi and displaying sensor data on the WebApp.
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
 
-- [**KiAuto-Windows**](https://github.com/StefanRautner/KiAuto-Windows)  
-  KiAuto-Windows is a linux library for exporting schematisc and much more from a programm called KiCad. I rewrote that library to work on Windows.
+<br>
 
-- [**TinyWhatsApp (Chat Program)**](https://github.com/StefanRautner/ChatProgram)  
-  A multi-platform chat application that communicates with a central server and database.
+## ![](https://img.shields.io/badge/-%20-4dd0e1?style=flat-square) Projects
 
-- [**Loeschzeit (Competition Timer)**](https://github.com/StefanRautner) *(private repository)*  
-  A real-time timing application for children's water-spraying competitions at volunteer fire department festivals. Tracks participants, records scores, and displays results live.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- [**SnackSignal (Festival Ordering System)**](https://github.com/StefanRautner) *(private repository)*  
-  An efficient ordering system for club festivals. Supports cash and card payments, manages queues, and ensures fast delivery of food and drinks.
+**[Löschwasserförderung](https://github.com/fitforfire/loeschwasserfoerderung.at)**
+`Flutter` `Dart` `Open Source`
 
-- [**Nexus (Festival Operations Hub)**](https://github.com/StefanRautner) *(private repository)*  
-  Integrates Loeschzeit and SnackSignal into a single monitoring hub. Features automated tests, metrics dashboards, HTTPS encryption, uptime monitoring, orchestration, Stripe payments, and a secure reverse tunnel for remote access.
+Cross-platform app that calculates relay line setups for Austrian fire departments. In active use in the field.
 
+</td>
+<td width="50%" valign="top">
 
----
+**NetworkAudit**
+`Python` `FastAPI` `Cybersecurity`
 
-## 📊 GitHub Stats (public Repositories only)
+Network scanning and security assessment tool — async discovery engine, live topology mapping, encrypted reports.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanRautner&layout=compact&theme=radical)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StefanRautner&show_icons=true&rank_icon=github&theme=radical)
+**Hardware Policy Gateway**
+`Python` `Docker` `Embedded`
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StefanRautner&theme=radical)
+Default-deny hardware security gateway for Raspberry Pi. Locks down hardware interfaces via isolation and forensic YARA scanning.
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏆 Certifications
-Here are some of the certifications I've earned:
+**NeuroHive**
+`Python` `Docker` `Multi-Agent AI`
 
-- **Artificial Intelligence Fundamentals** - [Cisco](https://www.credly.com/earner/earned/badge/02c3f148-5d9b-4848-a97e-563d11b74ac6)
-- **Computer Hardware Basics** - [Cisco](https://www.credly.com/earner/earned/badge/647aa6b0-7222-4130-ab69-d88813ecba8b)
-- **Creating Digital Content, Communicate and Collaborate Online** - [Cisco](https://www.credly.com/earner/earned/badge/0b33a8b0-6b4a-4c65-b118-bc50d611f93d)
-- **Cybersecurity Fundamentals** - [IBM](https://www.credly.com/earner/earned/badge/5f39a144-6c69-480e-bddc-e7c3bed59611)
-- **Digital Awareness** - [Cisco](https://www.credly.com/earner/earned/badge/3c5808cf-b2a4-407a-8836-e5a5adf6121d)
-- **ECDL Standard Zertifikat** - [ECDL-Information](https://www.icdl.at)
-- **English for IT 1** - [Cisco](https://www.credly.com/earner/earned/badge/fc2960c2-e7e9-4ade-a07f-b95a850bf778)
-- **English for IT 2** - [Cisco](https://www.credly.com/earner/earned/badge/ec988248-9c44-4393-b6da-b84c959311e7)
-- **Ethical Hacker** - [Cisco](https://www.credly.com/earner/earned/badge/4eeaf26e-0f7d-426c-9194-63369cae6859)
-- **Introduction to Cybersecurity** - [Cisco](https://www.credly.com/earner/earned/badge/942deac4-d986-4a12-896a-1398ab6355e3)
-- **Introduction to Data Science** - [Cisco](https://www.credly.com/earner/earned/badge/24a7dffd-59cb-4f3c-befb-010349192ce5)
-- **Introduction to Internet of Things** - [Cisco](https://www.credly.com/earner/earned/badge/0d991b1e-268c-4718-a8df-f84322b80c1a)
-- **Introduction to Modern AI** - [Cisco](https://www.credly.com/earner/earned/badge/a5504512-dbc1-4f31-9e7d-ad37df6a4ef0)
-- **Information Technology Fundamentals** - [IBM](https://www.credly.com/earner/earned/badge/81feb453-bf32-4d97-b922-e788b412d5a0)
-- **Networking Basics** - [Cisco](https://www.credly.com/earner/earned/badge/37948a25-57f0-4ccc-9364-5e88fdaba3a0)
-- **Operating Systems Basics** - [Cisco](https://www.credly.com/earner/earned/badge/05e3e37e-db8e-487e-b4ee-282961d53e32)
-- **PCAP: Programming Essentials in Python** - [Cisco Zertifizierungen](https://www.netacad.com)
-- **Python Essentials 1** - [Cisco](https://www.credly.com/earner/earned/badge/845cac6d-01f6-4d88-a8e2-c6e3cdf9acbd)
-- **SAP (BASIC TASKS)** - [SAP Zertifizierungen](https://www.sap.com/austria/training-certification.html)
-- **User Experience Design Fundamentals** - [IBM](https://www.credly.com/earner/earned/badge/017f6df0-1982-4ada-9a22-76bf33b5018a)
-- **Using Computer and Mobile Devices** - [Cisco](https://www.credly.com/earner/earned/badge/567ccdac-912f-4e11-bc15-e40aa277d348)
+Local multi-agent system — an AI planner splits goals into tasks, handled autonomously by specialized agents (dev, test, security, docs).
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🔗 Useful Links
+**SparkNet**
+`IoT` `AI` `Smart Home`
 
-- [Credly profile](https://www.credly.com/users/stefan-rautner)
-- [Personal website](https://stefanrautner.netlify.app)
-- [Open-source repositories](https://github.com/StefanRautner?tab=repositories)
+Cross-platform smart home system: automation, security, voice control, and image recognition in one stack.
 
----
+</td>
+<td width="50%" valign="top">
 
-**Thanks for stopping by!**
+**Nexus**
+`DevOps` `Stripe`
 
-Feel free to explore, contribute, and contact me with any questions or collaborations.
-I'm always open to new opportunities and learning experiences.
+Platform behind Löschzeit & SnackSignal — monitoring, HTTPS, Stripe payments, reverse tunneling.
+
+</td>
+</tr>
+</table>
+
+<sub>→ **[full project list](https://stefanrautner.github.io/Portfolio/#projects)** on the Portfolio</sub>
+
+<br>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
+
+<br>
+
+## ![](https://img.shields.io/badge/-%20-4dd0e1?style=flat-square) Skills
+
+| | |
+|---|---|
+| **Languages** | `C` `C#` `C++` `Java` `Dart` `Python` `MicroPython` `Bash` — advanced&nbsp;·&nbsp;`JavaScript` `PHP` `HTML` `CSS` — intermediate |
+| **Frameworks** | `Spring Boot` `ASP.NET` (backend) · `Flutter` (cross-platform) · `Bootstrap` `WPF` `JavaFX` (frontend) |
+| **Databases** | `MySQL` `SQLite` `MongoDB` — advanced&nbsp;·&nbsp;`PostgreSQL` `MariaDB` — intermediate |
+
+<sub>→ **[full skills breakdown](https://stefanrautner.github.io/Portfolio/#skills)** on the Portfolio</sub>
+
+<br>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
+
+<br>
+
+## ![](https://img.shields.io/badge/-%20-4dd0e1?style=flat-square) Certifications
+
+Cisco — Ethical Hacker, Intro to Cybersecurity · IBM — Cybersecurity Fundamentals, AI Fundamentals
+
+<sub>→ **[all certificates](https://stefanrautner.github.io/Portfolio/#certificates)** on the Portfolio</sub>
+
+<br>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
+
+<br>
+
+## ![](https://img.shields.io/badge/-%20-4dd0e1?style=flat-square) GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StefanRautner&theme=github_dark" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=StefanRautner&theme=github-dark-blue&background=080810&border=13131f&stroke=4dd0e1&ring=4dd0e1&fire=a78bfa&currStreakLabel=4dd0e1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanRautner&layout=compact&theme=github_dark&bg_color=080810&title_color=4dd0e1&text_color=c8d4e0&border_color=13131f" />
+
+</div>
+
+<br>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
+
+<br>
+
+<div align="center">
+
+**Let's talk** — open to freelance work and collaboration.
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-080810?style=flat-square&logo=googlechrome&logoColor=4dd0e1)](https://stefanrautner.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-080810?style=flat-square&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/stefan-rautner-07b00b3b9/)
+[![Mail](https://img.shields.io/badge/-Mail-080810?style=flat-square&logo=maildotru&logoColor=4dd0e1)](mailto:stefan@stefanrautner.at)
+
+<sub>Kuchl, Salzburg, Austria</sub>
+
+</div>
