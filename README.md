@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:080810,50:13131f,100:0e0e1a&height=180&section=header&text=Stefan%20Rautner&fontSize=42&fontColor=4dd0e1&fontAlignY=40&desc=Smart.%20Secure.%20Automated.&descAlignY=58&descAlign=50&descColor=a78bfa" />
+<img width="100%" src="./assets/banner.svg" alt="Stefan Rautner">
 
 <a href="https://stefanrautner.github.io/Portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=4DD0E1&center=true&vCenter=true&width=560&lines=building+smart+home+%26+automation+systems;cyber+security+%2B+ethical+hacking;IT%2FEDP+support+%40+volunteer+fire+department;studying+at+FH+Salzburg" alt="Typing SVG" />
@@ -24,7 +24,7 @@ I build smart home systems, security tools, and automation — things people act
 
 <br>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
+<img src="./assets/divider.svg" width="100%" height="3">
 
 <br>
 
@@ -91,7 +91,7 @@ Platform behind Löschzeit & SnackSignal — monitoring, HTTPS, Stripe payments,
 
 <br>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
+<img src="./assets/divider.svg" width="100%" height="3">
 
 <br>
 
@@ -107,7 +107,7 @@ Platform behind Löschzeit & SnackSignal — monitoring, HTTPS, Stripe payments,
 
 <br>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
+<img src="./assets/divider.svg" width="100%" height="3">
 
 <br>
 
@@ -119,7 +119,7 @@ Cisco — Ethical Hacker, Intro to Cybersecurity · IBM — Cybersecurity Fundam
 
 <br>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
+<img src="./assets/divider.svg" width="100%" height="3">
 
 <br>
 
@@ -136,7 +136,7 @@ Cisco — Ethical Hacker, Intro to Cybersecurity · IBM — Cybersecurity Fundam
 
 <br>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIHZpZXdCb3g9IjAgMCA4MDAgMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNGRkMGUxIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM0ZGQwZTEiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRkZDBlMSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+Cg==" width="100%" height="3">
+<img src="./assets/divider.svg" width="100%" height="3">
 
 <br>
 
