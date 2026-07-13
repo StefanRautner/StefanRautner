@@ -147,7 +147,7 @@ Cisco — Ethical Hacker, Intro to Cybersecurity · IBM — Cybersecurity Fundam
 [![Portfolio](https://img.shields.io/badge/-Portfolio-080810?style=flat-square&logo=googlechrome&logoColor=4dd0e1)](https://stefanrautner.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-080810?style=flat-square&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/stefanrautner)
 [![Mail](https://img.shields.io/badge/-Mail-080810?style=flat-square&logo=maildotru&logoColor=4dd0e1)](mailto:stefan.rautner06@gmail.com)
-
+[![Credly](https://img.shields.io/badge/-Credly-080810?style=flat-square&logo=credly&logoColor=4dd0e1)](https://www.credly.com/users/stefanrautner)
 <sub>Kuchl, Salzburg, Austria</sub>
 
 </div>
