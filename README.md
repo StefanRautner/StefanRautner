@@ -2,7 +2,7 @@
 
 <img width="100%" src="./assets/banner.svg" alt="Stefan Rautner">
 
-<a href="https://stefanrautner.github.io/Portfolio/">
+<a href="https://stefanrautner.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=4DD0E1&center=true&vCenter=true&width=560&lines=building+smart+home+%26+automation+systems;cyber+security+%2B+ethical+hacking;IT%2FEDP+support+%40+volunteer+fire+department;studying+at+FH+Salzburg" alt="Typing SVG" />
 </a>
 
