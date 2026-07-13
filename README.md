@@ -8,7 +8,7 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-view-4dd0e1?style=for-the-badge&logoColor=white&labelColor=080810)](https://stefanrautner.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-view-4dd0e1?style=for-the-badge&logoColor=white&labelColor=080810)](https://stefanrautner.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080810)](https://www.linkedin.com/in/stefanrautner)
 [![Mail](https://img.shields.io/badge/Mail-say%20hi-4dd0e1?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=080810)](mailto:stefan.rautner06@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-view-4dd0e1?style=for-the-badge&logo=credly&logoColor=white&labelColor=080810)](https://www.credly.com/users/stefanrautner)
