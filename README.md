@@ -87,7 +87,7 @@ Platform behind Löschzeit & SnackSignal — monitoring, HTTPS, Stripe payments,
 </tr>
 </table>
 
-<sub>→ **[full project list](https://stefanrautner.github.io/Portfolio/#projects)** on the Portfolio</sub>
+<sub>→ **[full project list](https://stefanrautner.github.io/#projects)** on the Portfolio</sub>
 
 <br>
 
@@ -99,11 +99,11 @@ Platform behind Löschzeit & SnackSignal — monitoring, HTTPS, Stripe payments,
 
 | | |
 |---|---|
-| **Languages** | `C` `C#` `C++` `Java` `Dart` `Python` `MicroPython` `Bash` — advanced&nbsp;·&nbsp;`JavaScript` `PHP` `HTML` `CSS` — intermediate |
+| **Languages** | `Java` `Python` `MicroPython` `Bash` — advanced&nbsp;·&nbsp;`C` `C#` `C++` `Dart` `JavaScript` `PHP` `HTML` `CSS` — intermediate |
 | **Frameworks** | `Spring Boot` `ASP.NET` (backend) · `Flutter` (cross-platform) · `Bootstrap` `WPF` `JavaFX` (frontend) |
-| **Databases** | `MySQL` `SQLite` `MongoDB` — advanced&nbsp;·&nbsp;`PostgreSQL` `MariaDB` — intermediate |
+| **Databases** | `MySQL` `SQLite` — advanced&nbsp;·&nbsp;`PostgreSQL` `MongoDB` `MariaDB` — intermediate |
 
-<sub>→ **[full skills breakdown](https://stefanrautner.github.io/Portfolio/#skills)** on the Portfolio</sub>
+<sub>→ **[full skills breakdown](https://stefanrautner.github.io/#skills)** on the Portfolio</sub>
 
 <br>
 
@@ -115,7 +115,7 @@ Platform behind Löschzeit & SnackSignal — monitoring, HTTPS, Stripe payments,
 
 Cisco — Ethical Hacker, Intro to Cybersecurity · IBM — Cybersecurity Fundamentals, AI Fundamentals
 
-<sub>→ **[all certificates](https://stefanrautner.github.io/Portfolio/#certificates)** on the Portfolio</sub>
+<sub>→ **[all certificates](https://stefanrautner.github.io/#certificates)** on the Portfolio</sub>
 
 <br>
 
@@ -144,9 +144,9 @@ Cisco — Ethical Hacker, Intro to Cybersecurity · IBM — Cybersecurity Fundam
 
 **Let's talk** — open to freelance work and collaboration.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-080810?style=flat-square&logo=googlechrome&logoColor=4dd0e1)](https://stefanrautner.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-080810?style=flat-square&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/stefan-rautner-07b00b3b9/)
-[![Mail](https://img.shields.io/badge/-Mail-080810?style=flat-square&logo=maildotru&logoColor=4dd0e1)](mailto:stefan@stefanrautner.at)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-080810?style=flat-square&logo=googlechrome&logoColor=4dd0e1)](https://stefanrautner.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-080810?style=flat-square&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/stefanrautner)
+[![Mail](https://img.shields.io/badge/-Mail-080810?style=flat-square&logo=maildotru&logoColor=4dd0e1)](mailto:stefan.rautner06@gmail.com)
 
 <sub>Kuchl, Salzburg, Austria</sub>
 
