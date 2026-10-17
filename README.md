@@ -3,7 +3,7 @@
 <img width="100%" src="./assets/banner.svg" alt="Stefan Rautner">
 
 <a href="https://stefanrautner.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=4DD0E1&center=true&vCenter=true&width=560&lines=building+smart+home+%26+automation+systems;cyber+security+%2B+ethical+hacking;IT%2FEDP+support+%40+volunteer+fire+department;studying+at+FH+Salzburg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=16&duration=2500&pause=1200&color=4DD0E1&center=true&vCenter=true&width=650&lines=building%20AI-powered%20agents%20%26%20automation&lines=developing%20smart%20home%20%26%20security%20systems&lines=cyber%20security%20%2B%20ethical%20hacking&lines=IT%20Student%20%40%20Red%20Bull&lines=IT%2FEDP%20support%20%40%20volunteer%20fire%20department%20Kuchl&lines=studying%20%40%20FH%20Salzburg" alt="Typing SVG" />
 </a>
 
 <br><br>
