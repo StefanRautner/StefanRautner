@@ -3,7 +3,7 @@
 <img width="100%" src="./assets/banner.svg" alt="Stefan Rautner">
 
 <a href="https://stefanrautner.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=16&duration=2500&pause=1200&color=4DD0E1&center=true&vCenter=true&width=650&lines=building%20AI-powered%20agents%20%26%20automation&lines=developing%20smart%20home%20%26%20security%20systems&lines=cyber%20security%20%2B%20ethical%20hacking&lines=IT%20Student%20%40%20Red%20Bull&lines=IT%2FEDP%20support%20%40%20volunteer%20fire%20department%20Kuchl&lines=studying%20%40%20FH%20Salzburg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=4DD0E1&center=true&vCenter=true&width=650&lines=building+AI-powered+agents+%26+automation;developing+smart+home+%26+security+systems;cyber+security+%2B+ethical+hacking;IT+Student+%40+Red+Bull;studying+%40+FH+Salzburg;IT%2FEDP+support+%40+volunteer+fire+department+Kuchl" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -19,9 +19,9 @@
 
 ## ![](https://img.shields.io/badge/-%20-4dd0e1?style=flat-square) About
 
-I build smart home systems, security tools, and automation — things people actually rely on, not just demos. Currently studying at FH Salzburg, and I handle IT/EDP support for my local volunteer fire department, which is where a lot of my hands-on infrastructure and security work comes from.
+I build AI-powered agents, smart home systems, security tools, and automation that solve real-world problems — not just demos. Currently studying at FH Salzburg and working as an IT Student @ Red Bull, I also handle IT/EDP support for the Volunteer Fire Department Kuchl, gaining hands-on experience in IT infrastructure, networking, and security.
 
-`Cyber Security` `Ethical Hacking` `Networking` `Smart Home & Automation` `AI-assisted development`
+`Cyber Security` `Ethical Hacking` `Networking` `Smart Home & Automation` `AI-assisted development` `AI Agents`
 
 <br>
 
