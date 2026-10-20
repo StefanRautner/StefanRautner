@@ -61,7 +61,7 @@ Default-deny hardware security gateway for Raspberry Pi. Locks down hardware int
 </td>
 <td width="50%" valign="top">
 
-**NeuroHive**
+**Neurosphere**
 `Python` `Docker` `Multi-Agent AI`
 
 Local multi-agent system — an AI planner splits goals into tasks, handled autonomously by specialized agents (dev, test, security, docs).
